@@ -31,3 +31,7 @@ Step 10: Data Exploration and visualization
 Step 11: Plot locations with heatmap intensity as per the Price of the properties
 
 Step 12: Plotting a chart to show the price distribution based on the NYC boroughs
+
+step 13: Applying model training with scikit learn - Linear Regression
+
+Step 14: Training the model with number of reviews and price to predict price of properties on AirBnb listings - popularity
